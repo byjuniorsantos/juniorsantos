@@ -1,0 +1,47 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #eeeeee;
+}
+
+.profile-picture img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 2px solid #dddddd;
+}
+
+header h1 {
+    margin: 10px 0 0;
+}
+
+header p {
+    margin: 10px 0;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+section h2 {
+    text-align: center;
+}
+
+#contact p {
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #eeeeee;
+}
